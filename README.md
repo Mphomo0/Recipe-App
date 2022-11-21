@@ -26,6 +26,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 ## What Did I use
-Tailwind css
-DaisyUi
-Reactjs
+Tailwind css, Reactjs, and DaisyUI
