@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@media only screen and (max-width: 600px){
+	/*Big smartphones [426px -> 600px]*/
+    .justify-center.items-center.lg\:flex.mt-10.mb-10.bg\[\#2a303c\] {
+        padding: 18px;
+    }
+}
+@media only screen and (max-width: 425px){
+	/*Small smartphones [325px -> 425px]*/
+    .justify-center.items-center.lg\:flex.mt-10.mb-10.bg\[\#2a303c\] {
+        padding: 23px;
+    }
+}
+
