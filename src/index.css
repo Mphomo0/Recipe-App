@@ -2,3 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+
+@media only screen and (max-width: 600px){
+	/*Big smartphones [426px -> 600px]*/
+    .test {
+        width: 25px
+    }
+}
+@media only screen and (max-width: 425px){
+	/*Small smartphones [325px -> 425px]*/
+    .test {
+        width: 25px
+    }
+}
+
