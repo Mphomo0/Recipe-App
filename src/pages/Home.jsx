@@ -9,7 +9,7 @@ const Home = () => {
       </div>
       <div>
         <Link to={'/recipes'}>
-        <button className="home_btn .home_btn_mobile btn btn-outline btn-secondary text-white align-center lg:mt-[115px] lg:m-[-319px] sm:mt-[146px] sm:m-[-229px]">View Recipes
+        <button className="home_btn .home_btn_mobile btn btn-outline btn-secondary text-white align-center lg:mt-[115px] lg:m-[-319px] sm:mt-[146px] sm:m-[-277px]">View Recipes
         </button>
         </Link>
       </div>
